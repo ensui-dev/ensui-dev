@@ -1,4 +1,5 @@
-# Hey! I'm Mário Ferreira
+![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
+# It's-a me Mário!
 ---
 🎓 42 Lisboa Student · Common Core
 💻 Full-Stack Developer · Ironhack '25
@@ -94,12 +95,6 @@ Marketplace.
 ---
 
 ## Find me here
-
-<p>
-  <a href="https://github.com/ensui-dev"> 
-  <img src=https://pixel-profile.vercel.app/api/github-stats?username=ensui-dev/>
-  </a>
-</p>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mljferreira)
 <br><br>
