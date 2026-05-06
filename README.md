@@ -13,7 +13,7 @@
 ---
 
 # What I'm getting into:
-[![Languages](https://skillicons.dev/icons?i=java,cpp,rust&theme=dark")](https://git.marioferreira.com/Mario)
+[![Languages](https://skillicons.dev/icons?i=java,cpp,rust&theme=dark)](https://git.marioferreira.com/Mario)
 <br>
 <br>
 [![Tools](https://skillicons.dev/icons?i=spring,angular,azure,django&theme=dark)](https://git.marioferreira.com/Mario)
