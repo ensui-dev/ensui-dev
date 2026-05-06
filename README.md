@@ -1,8 +1,35 @@
+# Things I use:
 <p align="center">
   <a href="https://git.marioferreira.com/Mario">
-    <img src="https://skillicons.dev/icons?i=c,py,ts,js,css,html&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,supabase,netlify&theme=dark&perline=3" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,powershell,docker,npm,pnpm,git,neovim,vim,idea,vscode,,md&theme=dark&perline=3" />
   </a>
 </p>
+
+---
+
+# Languages & Tools I use:
+<p align="center">
+  <a href="https://git.marioferreira.com/Mario">
+    <img src="https://skillicons.dev/icons?i=c,cs,py,ts,js&theme=dark&perline=3" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,vite,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,sqlite,vitest,nginx,dotnet&theme=dark&perline=7" />
+  </a>
+</p>
+
+---
+
+# What I'm getting into:
+<p align="center">
+  <a href="https://git.marioferreira.com/Mario">
+    <img src="https://skillicons.dev/icons?i=java,cpp,rust&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=spring,angular,azure,django" />
+  </a>
+</p>
+
+---
 
 # 👋 Hey, I'm Mário
 
