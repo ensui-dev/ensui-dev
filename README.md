@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.marioferreira.com/Mario">
-    <img src="https://skillicons.dev/icons?i=c,cs,py,ts,js,css,html&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=c,py,ts,js,css,html&theme=dark&perline=3" />
   </a>
 </p>
 
