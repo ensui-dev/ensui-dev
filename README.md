@@ -1,3 +1,5 @@
+[![Languages](https://skillicons.dev/icons?i=c,cs,py,ts,js,css,html,&theme=dark)](https://git.marioferreira.com/Mario)
+
 # 👋 Hey, I'm Mário
 
 🎓 42 Lisboa Student · Common Core
