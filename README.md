@@ -96,5 +96,5 @@ Marketplace.
 ## Find me here
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mljferreira)
-[![E-Mail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:mario@marioferreira.com)
+<br><br>
 [mario@marioferreira.com](mailto:mario@marioferreira.com)
