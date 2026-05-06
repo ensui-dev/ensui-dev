@@ -8,12 +8,12 @@
 
 ### About Me
 
-I build things end-to-end — from AWS infrastructure to native desktop clients
+I build things end-to-end, from AWS infrastructure to native desktop clients
 to terminal UIs. Currently going deep on systems-level work at 42 Lisboa
 (C, Unix, networking) while shipping side projects across the stack.
 
 - Comfortable across **TypeScript, JavaScript, Python, C, C#**
-- Currently learning deeper: **systems programming, applied ML, LLM tooling**
+- Currently learning deeper: **Java, Systems programming, Applied ML, LLM tooling**
 - Curious about: **inference-time techniques** (constrained decoding,
   structured outputs), reverse engineering, anything that demystifies
   the layer below
@@ -69,11 +69,16 @@ Working through 42's notoriously unforgiving C / Unix curriculum.
 
 | Project | Description | Language | Status | Grade |
 | --- | --- | --- | --- | --- |
-| [push_swap](https://github.com/ensui-dev/push_swap) | Sorting algorithm using stacks with constrained operations | C | ✅ Completed | _add grade_ |
-| Libft | Custom implementation of standard C library functions | C | 🚧 _Placeholder — repo coming_ | – |
-| ft_printf | Recreation of `printf` with variadic functions | C | 🚧 _Placeholder — repo coming_ | – |
-| get_next_line | Read a file line by line with a static buffer | C | 🚧 _Placeholder — repo coming_ | – |
-| Born2BeRoot | System administration & virtualization | Shell | 🚧 _Placeholder — repo coming_ | – |
+| [push_swap](https://git.marioferreira.com/projects/42cursus-push_swap) | Sorting algorithm using stacks with constrained operations | C | ✅ Completed | 125 |
+| [Libft](https://git.marioferreira.com/projects/42cursus-libft) | Custom implementation of standard C library functions | C | ✅ Completed | 123 |
+| [ft_printf](https://git.marioferreira.com/projects/42cursus-ft_printf) | Recreation of `printf` with variadic functions | C | ✅ Completed | 100 |
+| [get_next_line](https://git.marioferreira.com/projects/42cursus-get_next_line) | Read a file line by line with a static buffer | C | ✅ Completed | 101 |
+| [A-Maze-ing](https://git.marioferreira.com/projects/42cursus-a-maze-ing) |  Maze generator + animated TUI (In collaboration with [@torrejoNia](https://github.com/torrejoNia)) | Python | ✅ Completed  | 125 |
+| [Python Modules 0-10](https://git.marioferreira.com/projects/42cursus-python-modules) | A comprehensive Python Tutorial for learning Object-Oriented Programming in Python | Python | ✅ Completed  | 100 |
+| [call-me-maybe](https://git.marioferreira.com/projects/42cursus-call-me-maybe) | Inference-time techniques (constrained decoding, structured outputs) | Python | ✅ Completed  | 116 |
+| [Codexion](https://git.marioferreira.com/projects/42cursus-codexion) | Concurrent programming in C through an intense simulation where coders race against burnouts | C | ✅ Completed  | 100 |
+| [Fly-in](https://git.marioferreira.com/projects/42cursus-fly-in) | Multi-agent Pathfinding Algorithm with CBS, LNS, PIBT, Space-time A* and Dijkstra | Python | ✅ Completed  | 125 | 
+
 | _More projects to come..._ | | | | |
 
 ---
@@ -82,7 +87,7 @@ Working through 42's notoriously unforgiving C / Unix curriculum.
 
 Languages   TypeScript · JavaScript · Python · C · C#
 Web         React · Node.js · Express · Tailwind · Vite
-Backend     SQLite · Knex · JWT · WebSocket · REST
+Backend     SQLite · JWT · WebSocket · REST · FastAPI
 Cloud       AWS EC2 · AWS CDK · AWS SES
 Systems     Unix · termios · Windows Media Session API · .NET 8
 Tooling     Git · GitHub Actions · Ghidra · Inno Setup · Make
