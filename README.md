@@ -1,27 +1,17 @@
 [![MarioCoderGIF](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)](https://git.marioferreira.com/Mario)
 [![Its-aMeSVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=32&duration=1500&pause=500&color=67F7D5&multiline=true&width=450&height=80&lines=It's-a+me!;M%C3%A1rio!)](https://git.marioferreira.com/Mario)
 ---
-- 42 Lisboa Student · Common Core
-- Full-Stack Developer · Ironhack '25
-- Maintaining [auxbar.me](https://auxbar.me)
----
-
 ### About Me
-
-I build things end-to-end, from AWS infrastructure to native desktop clients
-to terminal UIs. Currently going deep on systems-level work at 42 Lisboa
-(C, Unix, networking) while shipping side projects across the stack.
-
-- Comfortable across **TypeScript, JavaScript, Python, C, C#**
-- Currently learning deeper: **Java, Systems programming, Applied ML, LLM tooling**
-- Curious about: **inference-time techniques** (constrained decoding,
-  structured outputs), reverse engineering, anything that demystifies
-  the layer below
+I build things end-to-end, from AWS infrastructure to native desktop clients to terminal UIs. 
+Currently burying myself into systems programming, machine learning and algorithms at 42 Lisboa, as well as side-questing into Java, CPP and Rust.
+- Comfortable across **C, C#, Python, TypeScript,JavaScript**
+- Currently going deeper: **Java, Systems Programming, Applied ML, LLM tooling, Minecraft Modding**
+- Curious about: **inference-time techniques** (constrained decoding, structured outputs), reverse engineering, anything that demystifies the layers beneath
 ---
 
 ## 🚀 Featured Projects
 
-### 🎧 [Auxbar](https://auxbar.me) — Real-time music widget for streamers
+### [Auxbar](https://auxbar.me) — Real-time music widget for streamers
 Full-stack SaaS that displays the streamer's currently playing track as an
 OBS browser-source overlay. **My long-running side project.**
 
