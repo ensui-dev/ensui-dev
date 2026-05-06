@@ -1,15 +1,18 @@
 # Things I use:
 [![Hosting Things](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,supabase,netlify&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
+<br>
 [![System Things](https://skillicons.dev/icons?i=linux,arch,debian,bash,powershell,docker,npm,pnpm,git,neovim,vim,idea,vscode,md&theme=dark&perline=7)](https://git.marioferreira.com/Mario)
 ---
 
 # Languages & Tools I use:
 [![Languages](https://skillicons.dev/icons?i=c,cs,py,ts,js&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
+<br>
 [![Tools](https://skillicons.dev/icons?i=html,css,vite,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,sqlite,vitest,nginx,dotnet&theme=dark&perline=8)](https://git.marioferreira.com/Mario)
 ---
 
 # What I'm getting into:
 [![Languages](https://skillicons.dev/icons?i=java,cpp,rust&theme=dark")](https://git.marioferreira.com/Mario)
+<br>
 [![Tools](https://skillicons.dev/icons?i=spring,angular,azure,django&theme=dark)](https://git.marioferreira.com/Mario)
 ---
 
