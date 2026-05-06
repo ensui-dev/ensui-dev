@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Mário
-
+# Hey! I'm Mário Ferreira
+---
 🎓 42 Lisboa Student · Common Core
 💻 Full-Stack Developer · Ironhack '25
 🎧 Building [auxbar.me](https://auxbar.me)
@@ -94,6 +94,12 @@ Marketplace.
 ---
 
 ## Find me here
+
+<p>
+  <a href="https://github.com/ensui-dev"> 
+  <img src=https://pixel-profile.vercel.app/api/github-stats?username=ensui-dev/>
+  </a>
+</p>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mljferreira)
 <br><br>
