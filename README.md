@@ -3,13 +3,13 @@
 ---
 
 
-```
+
 ```
 🎓 42 Lisboa Student · Common Core
 💻 Full-Stack Developer · Ironhack '25
 🎧 Building [auxbar.me](https://auxbar.me)
 ```
-```
+
 ---
 
 ### About Me
