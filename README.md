@@ -1,4 +1,8 @@
-[![Languages](https://skillicons.dev/icons?i=c,cs,py,ts,js,css,html,&theme=dark)](https://git.marioferreira.com/Mario)
+<p align="center">
+  <a href="https://git.marioferreira.com/Mario">
+    <img src="https://skillicons.dev/icons?i=c,cs,py,ts,js,css,html&theme=dark&perline=3" />
+  </a>
+</p>
 
 # 👋 Hey, I'm Mário
 
