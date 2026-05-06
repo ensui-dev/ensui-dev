@@ -1,9 +1,9 @@
 [![MarioCoderGIF](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)](https://git.marioferreira.com/Mario)
 [![Its-aMeSVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=32&duration=1500&pause=500&color=67F7D5&multiline=true&width=450&height=80&lines=It's-a+me!;M%C3%A1rio!)](https://git.marioferreira.com/Mario)
 ---
-🎓 42 Lisboa Student · Common Core
-💻 Full-Stack Developer · Ironhack '25
-🎧 Building [auxbar.me](https://auxbar.me)
+- 42 Lisboa Student · Common Core
+- Full-Stack Developer · Ironhack '25
+- Maintaining [auxbar.me](https://auxbar.me)
 ---
 
 ### About Me
