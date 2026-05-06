@@ -1,11 +1,15 @@
 ![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
 # It's-a me Mário!
 ---
+
+
+```
+```
 🎓 42 Lisboa Student · Common Core
-<br>
 💻 Full-Stack Developer · Ironhack '25
-<br>
 🎧 Building [auxbar.me](https://auxbar.me)
+```
+```
 ---
 
 ### About Me
