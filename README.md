@@ -24,7 +24,6 @@
 🎓 42 Lisboa Student · Common Core
 💻 Full-Stack Developer · Ironhack '25
 🎧 Building [auxbar.me](https://auxbar.me)
-
 ---
 
 ### About Me
@@ -38,7 +37,6 @@ to terminal UIs. Currently going deep on systems-level work at 42 Lisboa
 - Curious about: **inference-time techniques** (constrained decoding,
   structured outputs), reverse engineering, anything that demystifies
   the layer below
-
 ---
 
 ## 🚀 Featured Projects
@@ -100,20 +98,27 @@ Working through 42's notoriously unforgiving C / Unix curriculum.
 | [Codexion](https://git.marioferreira.com/projects/42cursus-codexion) | Concurrent programming in C through an intense simulation where coders race against burnouts | C | ✅ Completed  | 100 |
 | [Fly-in](https://git.marioferreira.com/projects/42cursus-fly-in) | Multi-agent Pathfinding Algorithm with CBS, LNS, PIBT, Space-time A* and Dijkstra | Python | ✅ Completed  | 125 | 
 
-| _More projects to come..._ | | | | |
-
 ---
 
-## 🛠️ Skills
+## Things I use:
+[![Hosting Things](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,supabase,netlify&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
+<br>
+<br>
+[![System Things](https://skillicons.dev/icons?i=linux,arch,debian,bash,powershell,docker,npm,pnpm,git,neovim,vim,idea,vscode,md&theme=dark&perline=7)](https://git.marioferreira.com/Mario)
+---
 
-Languages   TypeScript · JavaScript · Python · C · C#
-Web         React · Node.js · Express · Tailwind · Vite
-Backend     SQLite · JWT · WebSocket · REST · FastAPI
-Cloud       AWS EC2 · AWS CDK · AWS SES
-Systems     Unix · termios · Windows Media Session API · .NET 8
-Tooling     Git · GitHub Actions · Ghidra · Inno Setup · Make
-ML/AI       Constrained decoding · LLM tooling (Python)
+## Languages & Tools I use:
+[![Languages](https://skillicons.dev/icons?i=c,cs,py,ts,js&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
+<br>
+<br>
+[![Tools](https://skillicons.dev/icons?i=html,css,vite,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,sqlite,vitest,nginx,dotnet&theme=dark&perline=8)](https://git.marioferreira.com/Mario)
+---
 
+## What I'm getting into:
+[![Languages](https://skillicons.dev/icons?i=java,cpp,rust&theme=dark)](https://git.marioferreira.com/Mario)
+<br>
+<br>
+[![Tools](https://skillicons.dev/icons?i=spring,angular,azure,django&theme=dark)](https://git.marioferreira.com/Mario)
 ---
 
 ## 📬 Contact
