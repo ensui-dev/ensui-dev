@@ -2,7 +2,9 @@
 # It's-a me Mário!
 ---
 🎓 42 Lisboa Student · Common Core
+<br>
 💻 Full-Stack Developer · Ironhack '25
+<br>
 🎧 Building [auxbar.me](https://auxbar.me)
 ---
 
