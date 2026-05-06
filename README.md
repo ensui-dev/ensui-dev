@@ -1,34 +1,16 @@
 # Things I use:
-<p align="center">
-  <a href="https://git.marioferreira.com/Mario">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,supabase,netlify&theme=dark&perline=3" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=linux,arch,debian,bash,powershell,docker,npm,pnpm,git,neovim,vim,idea,vscode,,md&theme=dark&perline=3" />
-  </a>
-</p>
-
+[![Hosting Things](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,supabase,netlify&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
+[![System Things](https://skillicons.dev/icons?i=linux,arch,debian,bash,powershell,docker,npm,pnpm,git,neovim,vim,idea,vscode,md&theme=dark&perline=7)](https://git.marioferreira.com/Mario)
 ---
 
 # Languages & Tools I use:
-<p align="center">
-  <a href="https://git.marioferreira.com/Mario">
-    <img src="https://skillicons.dev/icons?i=c,cs,py,ts,js&theme=dark&perline=3" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,vite,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,sqlite,vitest,nginx,dotnet&theme=dark&perline=7" />
-  </a>
-</p>
-
+[![Languages](https://skillicons.dev/icons?i=c,cs,py,ts,js&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
+[![Tools](https://skillicons.dev/icons?i=html,css,vite,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,sqlite,vitest,nginx,dotnet&theme=dark&perline=8)](https://git.marioferreira.com/Mario)
 ---
 
 # What I'm getting into:
-<p align="center">
-  <a href="https://git.marioferreira.com/Mario">
-    <img src="https://skillicons.dev/icons?i=java,cpp,rust&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=spring,angular,azure,django" />
-  </a>
-</p>
-
+[![Languages](https://skillicons.dev/icons?i=java,cpp,rust&theme=dark")](https://git.marioferreira.com/Mario)
+[![Tools](https://skillicons.dev/icons?i=spring,angular,azure,django&theme=dark)](https://git.marioferreira.com/Mario)
 ---
 
 # 👋 Hey, I'm Mário
