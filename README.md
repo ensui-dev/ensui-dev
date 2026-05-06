@@ -3,10 +3,10 @@
 ---
 ### About Me
 I build things end-to-end, from AWS infrastructure to native desktop clients to terminal UIs. 
-Currently burying myself into systems programming, machine learning and algorithms at 42 Lisboa, as well as side-questing into Java, CPP and Rust.
-- Comfortable across **C, C#, Python, TypeScript,JavaScript**
-- Currently going deeper: **Java, Systems Programming, Applied ML, LLM tooling, Minecraft Modding**
-- Curious about: **inference-time techniques** (constrained decoding, structured outputs), reverse engineering, anything that demystifies the layers beneath
+Currently burying myself into systems programming, machine learning and algorithms at 42 Lisboa, as well as side-questing into Java, C++ and Rust.
+- Comfortable across: **C, C#, Python, TypeScript, JavaScript, AWS, Docker, Git**
+- Currently going deeper: **Java, C++, Rust, Spring Boot, Angular, Django, Azure**
+- Areas of interest: **Systems Programming, Applied ML, LLM tooling, Minecraft Modding**
 ---
 
 ## 🚀 Featured Projects
