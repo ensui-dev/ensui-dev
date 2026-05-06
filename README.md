@@ -1,24 +1,3 @@
-# Things I use:
-[![Hosting Things](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,supabase,netlify&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
-<br>
-<br>
-[![System Things](https://skillicons.dev/icons?i=linux,arch,debian,bash,powershell,docker,npm,pnpm,git,neovim,vim,idea,vscode,md&theme=dark&perline=7)](https://git.marioferreira.com/Mario)
----
-
-# Languages & Tools I use:
-[![Languages](https://skillicons.dev/icons?i=c,cs,py,ts,js&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
-<br>
-<br>
-[![Tools](https://skillicons.dev/icons?i=html,css,vite,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,sqlite,vitest,nginx,dotnet&theme=dark&perline=8)](https://git.marioferreira.com/Mario)
----
-
-# What I'm getting into:
-[![Languages](https://skillicons.dev/icons?i=java,cpp,rust&theme=dark)](https://git.marioferreira.com/Mario)
-<br>
-<br>
-[![Tools](https://skillicons.dev/icons?i=spring,angular,azure,django&theme=dark)](https://git.marioferreira.com/Mario)
----
-
 # 👋 Hey, I'm Mário
 
 🎓 42 Lisboa Student · Common Core
@@ -73,33 +52,10 @@ Python maze generator (DFS / Prim's), BFS solver, animated ASCII TUI.
 ### 🛠️ [vscode-42header-plus](https://github.com/ensui-dev/vscode-42header-plus) — Enhanced 42 header extension
 Maintained fork of the original `vscode-42header`, published to the VSCode
 Marketplace.
-
 - Added **campus dropdown** (25+ campuses worldwide)
 - Fixed **whitespace alignment** and **email truncation** bugs in the header
 - Cross-platform CI (Linux/Windows/macOS, Node 18.x and 20.x), unit + integration tests
-
 ---
-
-
-
-## 🎓 42 Lisboa — Common Core
-
-Working through 42's notoriously unforgiving C / Unix curriculum.
-
-| Project | Description | Language | Status | Grade |
-| --- | --- | --- | --- | --- |
-| [push_swap](https://git.marioferreira.com/projects/42cursus-push_swap) | Sorting algorithm using stacks with constrained operations | C | ✅ Completed | 125 |
-| [Libft](https://git.marioferreira.com/projects/42cursus-libft) | Custom implementation of standard C library functions | C | ✅ Completed | 123 |
-| [ft_printf](https://git.marioferreira.com/projects/42cursus-ft_printf) | Recreation of `printf` with variadic functions | C | ✅ Completed | 100 |
-| [get_next_line](https://git.marioferreira.com/projects/42cursus-get_next_line) | Read a file line by line with a static buffer | C | ✅ Completed | 101 |
-| [A-Maze-ing](https://git.marioferreira.com/projects/42cursus-a-maze-ing) |  Maze generator + animated TUI (In collaboration with [@torrejoNia](https://github.com/torrejoNia)) | Python | ✅ Completed  | 125 |
-| [Python Modules 0-10](https://git.marioferreira.com/projects/42cursus-python-modules) | A comprehensive Python Tutorial for learning Object-Oriented Programming in Python | Python | ✅ Completed  | 100 |
-| [call-me-maybe](https://git.marioferreira.com/projects/42cursus-call-me-maybe) | Inference-time techniques (constrained decoding, structured outputs) | Python | ✅ Completed  | 116 |
-| [Codexion](https://git.marioferreira.com/projects/42cursus-codexion) | Concurrent programming in C through an intense simulation where coders race against burnouts | C | ✅ Completed  | 100 |
-| [Fly-in](https://git.marioferreira.com/projects/42cursus-fly-in) | Multi-agent Pathfinding Algorithm with CBS, LNS, PIBT, Space-time A* and Dijkstra | Python | ✅ Completed  | 125 | 
-
----
-
 ## Things I use:
 [![Hosting Things](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,supabase,netlify&theme=dark&perline=3)](https://git.marioferreira.com/Mario)
 <br>
@@ -119,6 +75,22 @@ Working through 42's notoriously unforgiving C / Unix curriculum.
 <br>
 <br>
 [![Tools](https://skillicons.dev/icons?i=spring,angular,azure,django&theme=dark)](https://git.marioferreira.com/Mario)
+---
+
+## My progress at 42 Lisboa (Common Core)
+| Project | Description | Language | Status | Grade |
+| --- | --- | --- | --- | --- |
+| [push_swap](https://git.marioferreira.com/projects/42cursus-push_swap) | Sorting algorithm using stacks with constrained operations | C | Done | 125 |
+| [Libft](https://git.marioferreira.com/projects/42cursus-libft) | Custom implementation of standard C library functions | C | Done | 123 |
+| [ft_printf](https://git.marioferreira.com/projects/42cursus-ft_printf) | Recreation of `printf` with variadic functions | C | Done | 100 |
+| [get_next_line](https://git.marioferreira.com/projects/42cursus-get_next_line) | Read a file line by line with a static buffer | C | Done | 101 |
+| [A-Maze-ing](https://git.marioferreira.com/projects/42cursus-a-maze-ing) |  Maze generator + animated TUI (In collaboration with [@torrejoNia](https://github.com/torrejoNia)) | Python | Done | 125 |
+| [Python Modules 0-10](https://git.marioferreira.com/projects/42cursus-python-modules) | A comprehensive Python Tutorial for learning Object-Oriented Programming in Python | Python | Done | 100 |
+| [call-me-maybe](https://git.marioferreira.com/projects/42cursus-call-me-maybe) | Inference-time techniques (constrained decoding, structured outputs) | Python | Done | 116 |
+| [Codexion](https://git.marioferreira.com/projects/42cursus-codexion) | Concurrent programming in C through an intense simulation where coders race against burnouts | C | Done | 100 |
+| [Fly-in](https://git.marioferreira.com/projects/42cursus-fly-in) | Multi-agent Pathfinding Algorithm with CBS, LNS, PIBT, Space-time A* and Dijkstra | Python | Done | 125 | 
+| Further projects | NetPractice, Pac-Man, RAG against the machine, The Answer Protocol, Agent Smith, Inception, ft_transcendence| | Currently in development... | |
+| --- | --- | --- | --- | --- |
 ---
 
 ## 📬 Contact
