@@ -9,40 +9,31 @@ Currently burying myself into systems programming, machine learning and algorith
 - Areas of interest: **Systems Programming, Applied ML, LLM tooling, Minecraft Modding**
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Auxbar](https://auxbar.me) — Real-time music widget for streamers
-Full-stack SaaS that displays the streamer's currently playing track as an
-OBS browser-source overlay. **My long-running side project.**
+Full-stack SaaS that displays the streamer's currently playing track as an OBS browser-source overlay. **My long-running side project.**
 
 - **Web app:** React + TypeScript + Vite, Tailwind (retro pixel-art theme)
 - **Backend:** Node.js / Express, SQLite + Knex, JWT auth, WebSocket server
 - **Infra:** AWS EC2, AWS SES, deployed via AWS CDK (infrastructure as code)
-- **Desktop client:** [auxbar-widget](https://github.com/ensui-dev/auxbar-widget) — Windows .NET 8 app using
-  Windows Media Session API, WebSocket sync, JWT auto-refresh, system tray,
-  Inno Setup installer, GitHub Actions CI
+- **Desktop client:** [auxbar-widget](https://github.com/ensui-dev/auxbar-widget) — Windows .NET 8 app using Windows Media Session API, WebSocket sync, JWT auto-refresh, system tray, Inno Setup installer, GitHub Actions CI
 
-### 🔥 [DnD-ArsonMod](https://github.com/ensui-dev/DnD-ArsonMod) — Game mod via reverse engineering
-A new "Arson" game mode for *Dale & Dawson Stationary Supplies* (a Unity
-indie game in the Among Us genre). The slacker can now sabotage tasks to
-literally set the office on fire.
+### [DnD-ArsonMod](https://github.com/ensui-dev/DnD-ArsonMod) — Game mod via reverse engineering
+A new "Arson" game mode for **[Dale & Dawson Stationary Supplies](https://store.steampowered.com/app/2920570/Dale__Dawson_Stationery_Supplies/)** (a Unity indie game in the Among Us genre). The slacker can now sabotage tasks to literally set the office on fire.
 
 - Reverse engineered the compiled Unity binary with **Ghidra**
 - Implemented behavior changes via **C# code injection**
-- Game design: balanced asymmetric mechanics so the slacker has real agency
-  without breaking team-side gameplay
+- Game design: balanced asymmetric mechanics so the slacker has real agency without breaking team-side gameplay
 
-### 🌀 [A-maze-ing](https://github.com/torrejoNia/A-maze-ing_42Lisboa) — Maze generator + animated TUI (42 project, with [@torrejoNia](https://github.com/torrejoNia))
+### [A-maze-ing](https://github.com/torrejoNia/A-maze-ing_42Lisboa) — Maze generator + animated TUI (42 project, with [@torrejoNia](https://github.com/torrejoNia))
 Python maze generator (DFS / Prim's), BFS solver, animated ASCII TUI.
 
-- My contributions: **TUI renderer**, ANSI animations, `termios` raw-mode
-  input with `select.select` for non-blocking dual animation timers,
-  config parser, project wiring, repo + workflow management
+- My contributions: **TUI renderer**, ANSI animations, `termios` raw-mode input with `select.select` for non-blocking dual animation timers, config parser, project wiring, repo + workflow management
 - Distributed as an installable pip wheel (`pyproject.toml`, mypy strict)
 
-### 🛠️ [vscode-42header-plus](https://github.com/ensui-dev/vscode-42header-plus) — Enhanced 42 header extension
-Maintained fork of the original `vscode-42header`, published to the VSCode
-Marketplace.
+### [vscode-42header-plus](https://github.com/ensui-dev/vscode-42header-plus) — Enhanced 42 header extension
+Fork of the original `vscode-42header`, published to the VSCode Marketplace.
 - Added **campus dropdown** (25+ campuses worldwide)
 - Fixed **whitespace alignment** and **email truncation** bugs in the header
 - Cross-platform CI (Linux/Windows/macOS, Node 18.x and 20.x), unit + integration tests
@@ -71,17 +62,16 @@ Marketplace.
 ## My progress at 42 Lisboa (Common Core)
 | Project | Description | Language | Status | Grade |
 | --- | --- | --- | --- | --- |
-| [push_swap](https://git.marioferreira.com/projects/42cursus-push_swap) | Sorting algorithm using stacks with constrained operations | C | Done | 125 |
 | [Libft](https://git.marioferreira.com/projects/42cursus-libft) | Custom implementation of standard C library functions | C | Done | 123 |
 | [ft_printf](https://git.marioferreira.com/projects/42cursus-ft_printf) | Recreation of `printf` with variadic functions | C | Done | 100 |
 | [get_next_line](https://git.marioferreira.com/projects/42cursus-get_next_line) | Read a file line by line with a static buffer | C | Done | 101 |
+| [push_swap](https://git.marioferreira.com/projects/42cursus-push_swap) | Sorting algorithm using stacks with constrained operations | C | Done | 125 |
 | [A-Maze-ing](https://git.marioferreira.com/projects/42cursus-a-maze-ing) |  Maze generator + animated TUI (In collaboration with [@torrejoNia](https://github.com/torrejoNia)) | Python | Done | 125 |
 | [Python Modules 0-10](https://git.marioferreira.com/projects/42cursus-python-modules) | A comprehensive Python Tutorial for learning Object-Oriented Programming in Python | Python | Done | 100 |
 | [call-me-maybe](https://git.marioferreira.com/projects/42cursus-call-me-maybe) | Inference-time techniques (constrained decoding, structured outputs) | Python | Done | 116 |
 | [Codexion](https://git.marioferreira.com/projects/42cursus-codexion) | Concurrent programming in C through an intense simulation where coders race against burnouts | C | Done | 100 |
 | [Fly-in](https://git.marioferreira.com/projects/42cursus-fly-in) | Multi-agent Pathfinding Algorithm with CBS, LNS, PIBT, Space-time A* and Dijkstra | Python | Done | 125 | 
 | Further projects | NetPractice, Pac-Man, RAG against the machine, The Answer Protocol, Agent Smith, Inception, ft_transcendence| | Currently in development... | |
-| --- | --- | --- | --- | --- |
 ---
 
 ## Find me here
