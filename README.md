@@ -2,8 +2,7 @@
 [![Its-aMeSVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=32&duration=1500&pause=500&color=67F7D5&multiline=true&width=450&height=80&lines=It's-a+me!;M%C3%A1rio!)]()
 ---
 
-I build things end-to-end, from AWS infrastructure to native desktop clients to terminal UIs. 
-Currently burying myself into systems programming, machine learning and algorithms at 42 Lisboa, as well as side-questing into Java, C++ and Rust.
+I'm work with Java (Spring Framework MVC & Spring Boot) as a Application Developer, love building things end-to-end, reverse engineering, and Applied Machine Learning.
 - Comfortable across: **C, C++, Java, C#, Python, Spring Boot, TypeScript, JavaScript**
 - Currently going deeper: **Rust, Angular, Django**
 - Areas of interest: **Systems Programming, Embedded Systems, Self-hosting, Home Labbing, Applied ML, LLM tooling, JEPA World Models, Minecraft Modding**
